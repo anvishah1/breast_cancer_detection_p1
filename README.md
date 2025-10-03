@@ -1,7 +1,4 @@
-Day 1 of building a ML project
-
-
-Breast Cancer detection system 
+Day 1 of building a ML project:  Breast Cancer Detection System 
 
 
 0 --- malignant ---- cancer is present.
@@ -10,7 +7,7 @@ Breast Cancer detection system
 1 --- benign --- cancer is not there!
 
 
-followed the ML pipeline of 
+followed the ML pipeline:
 
 
 data collection --- dataset provided on keggle and used as numpy arrays
